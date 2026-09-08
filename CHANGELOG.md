@@ -1,3 +1,9 @@
+## 0.70.9 (2026-09-08)
+
+### Fix
+
+- bound the decimal precision and payload accepted from a schema (#968)
+
 ## 0.70.8 (2026-09-08)
 
 ### Fix
